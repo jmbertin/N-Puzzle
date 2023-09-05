@@ -64,7 +64,6 @@ First, if you choose not to use **-R option** of the npuzzle.py, you'll have to 
 
 ## Solving a puzzle
 
-Graphical display of resolution :
 ![Demo GIF](./graphic.gif)
 
 Once you have a puzzle in a file, you are ready to solve it using the generator.py script :
